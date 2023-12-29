@@ -6,7 +6,7 @@
 
 This GoLang code implements a simplified version of the famous Enigma machine, a historical encryption device used during World War II. The Enigma machine consists of rotors, reflectors, and a set of rules for enciphering and deciphering messages.
 
-### How to Use
+### How it works
 
 1. **Rotor Class:**
    - The `Rotor` class represents a rotor in the Enigma machine. Each rotor has a set of mappings that define how each letter is enciphered.
